@@ -1,7 +1,7 @@
 const http = require("http");
 
 // ====== YAHAN APNI DETAILS LIKHEIN ======
-const STUDENT_NAME = "Your Name";
+const STUDENT_NAME = "Syeda Rakhshan Noor";
 const STUDENT_ID = "2026-CS-101";
 const COURSE_NAME = "DevOps";
 // ========================================
